@@ -1,2 +1,7 @@
 # DecimalToBinaryString
-Convert 0&lt;x&lt;1 to a binary representation String
+
+Convert 0<x<1 to a binary representation
+
+	//check stringBuilder.length() in each loop
+
+	//keep times 2, append to StringBuilder 0 or 1
